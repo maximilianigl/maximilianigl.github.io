@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://maximilianigl.github.io/sitemap.xml
