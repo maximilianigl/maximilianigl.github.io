@@ -1,2 +1,5 @@
-# maximilianigl.github.io
-Homepage
+## Updating PaperMod Theme
+```
+git submodule update --remote --merge
+```
+
