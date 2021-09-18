@@ -1,6 +1,6 @@
 baseURL: "https://maximilianigl.github.io"
 languageCode: en-us
-title: Homepage
+title: Max's Notes
 paginate: 5
 theme: PaperMod
 
@@ -56,7 +56,7 @@ params:
 
     # profile-mode
     profileMode:
-        enabled: false # needs to be explicitly set
+        enabled: False # needs to be explicitly set
         title: ExampleSite
         subtitle: "This is subtitle"
         imageUrl: "<img location>"
@@ -84,7 +84,7 @@ params:
 
     analytics:
         google:
-            SiteVerificationTag: "XYZabc"
+            SiteVerificationTag: "UA-160665193-1"
         bing:
             SiteVerificationTag: "XYZabc"
         yandex:
